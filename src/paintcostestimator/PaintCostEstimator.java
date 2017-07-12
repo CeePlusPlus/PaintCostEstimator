@@ -1,7 +1,7 @@
 package paintcostestimator;
 
 import java.util.Scanner;
-
+//hi
 /**
  *
  * @author MANOJ
@@ -17,6 +17,7 @@ public class PaintCostEstimator {
     double[] width = new double[MAX_SIZE];
     public int flag = 0;
     char option;
+    
     Scanner read = new Scanner(System.in);
 
     public PaintCostEstimator() {
